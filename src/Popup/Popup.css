@@ -1,1 +1,0 @@
-.screen{background-color:rgba(0,0,0,0.5);width:100vw;height:100vh;position:fixed;top:0;left:0;display:flex;justify-content:center;align-items:center}.screen .popup{background:#fff;border-radius:2.5rem;position:relative}.screen .popup>a{position:absolute;top:1rem;right:1rem;border-radius:100rem;padding:.5rem}.screen .popup>a>svg{display:block;width:1rem;height:1rem}
