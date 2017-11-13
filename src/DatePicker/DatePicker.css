@@ -1,0 +1,1 @@
+@import "https://unpkg.com/purecss@1.0.0/build/pure-min.css";.datePicker{text-align:center;padding:2rem}.datePicker>.month{margin-bottom:1rem}.datePicker table{margin-bottom:1rem}.datePicker table td{cursor:pointer}.datePicker table td.selected{background:#e0e0e0}.datePicker .pure-button{border-radius:1.5rem}
