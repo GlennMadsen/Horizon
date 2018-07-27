@@ -18,6 +18,6 @@
     },
     "homepage": "http://glennmadsen.github.io/horizon",
     "devDependencies": {
-        "gh-pages": "^1.0.0"
+        "gh-pages": "^1.2.0"
     }
 }
